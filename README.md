@@ -1,7 +1,8 @@
 <!-- Neon Banner -->
 <p align="center">
-  <img src="https://imgur.com/ybZ0YkU.png" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=00F3FF&center=true&vCenter=true&width=900&lines=👾+Ashen+Nasingha;Full-Stack+Mobile+App+Developer;React+Native+%7C+Expo+%7C+Firebase+%7C+Node.js;Creating+Neon+Experiences+for+Modern+Apps" />
 </p>
+
 
 <h1 align="center">
   ⚡ <span style="color:#00eaff;">Ashen</span> — Full-Stack Mobile App Developer

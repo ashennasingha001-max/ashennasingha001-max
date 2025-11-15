@@ -1,106 +1,99 @@
-<!-- Gradient Banner -->
+<!-- Wave Banner -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<h1 align="center">🚀 Hey, I'm <span style="color:#4F46E5">Ashen</span> 👋</h1>
+<h1 align="center">✨ Hey, I'm <span style="color:#4F46E5">Ashen</span> 👋</h1>
 
-<h3 align="center">Full-Stack Mobile App Developer | React Native • Expo • Firebase • Node.js</h3>
+<h3 align="center">Frontend & Mobile Developer • React Native • Firebase • Student Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=4F46E5&center=true&vCenter=true&width=550&lines=Full-Stack+Mobile+App+Developer;React+Native+%7C+Expo+%7C+Firebase;Building+high-quality+mobile+apps;Turning+ideas+into+beautiful+UIs;Always+learning+%F0%9F%8E%93">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=4F46E5&center=true&vCenter=true&width=500&lines=I+love+building+clean+UIs.;React+%2B+Expo+Developer.;Always+learning+new+things.;Turning+ideas+into+apps.">
 </p>
 
 ---
 
-## 🌟 About Me
+## 🚀 About Me
 
-- 💼 Full-stack mobile & web developer  
-- 📱 Specialized in **React Native (Expo)** with smooth UI & clean architecture  
-- 🧠 Experienced with **Firebase**, **Node.js**, **REST APIs**, **Cloud Functions**  
-- 🎨 Passionate about UI/UX, animations & performance optimization  
-- 🚀 I love building real-world apps end-to-end  
-- 🌱 Currently learning: **Advanced TypeScript**, **Next.js**, **Backend scaling**  
+- 🔭 Currently building apps using **React Native (Expo)** & **Firebase**
+- 🌱 Learning **TypeScript**, **Next.js**, and **Backend APIs**
+- ⚡ Passionate about mobile UI, animations, cloud tech
+- 🤝 Looking to collaborate on creative & open-source projects
+- 🎯 Goal: Become a top-notch **full-stack mobile engineer**
 
 ---
 
 ## 🛠 Tech Stack
 
-### 📱 **Mobile Development**
+### ⭐ **Languages & Core**
 <p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</p>
+
+### 🎨 **Frontend & Mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" />
 </p>
 
-### 🌐 **Frontend**
+### 🔥 **Backend & Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=firebase,nodejs,express" />
 </p>
 
-### 🔥 **Backend & Cloud**
+### 🧰 **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-</p>
-
-### 🧰 **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
 ### 📱 **EventShare — Mobile Event App**
-A cross-platform event discovery & posting app.  
-**Tech:** React Native (Expo), Firebase Auth & Firestore  
-🔗 Add your repo link here  
+A full mobile app to create & explore local events.  
+**Tech:** React Native (Expo), Firebase  
+🔗 *Add your repo link here*
 
 ---
 
-### 🌐 **Portfolio Website**
-Your personal developer portfolio with clean UI and animations.  
+### 🌐 **Personal Portfolio Website**
+Clean responsive portfolio with animations.  
 **Tech:** Next.js, Tailwind CSS, Vercel  
-🔗 Add your repo link here  
+🔗 *Add your repo link here*
 
 ---
 
-### 🧾 **Assignment Helper Tool**
+### 🎓 **Assignment Helper Tool**
 Tool that generates university-ready reports with references.  
 **Tech:** React, Node.js  
-🔗 Add your repo link here  
+🔗 *Add your repo link here*
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashennasingha001-max&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashennasingha001-max&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashennasingha001-max&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashennasingha001-max&theme=tokyonight&row=1&no-frame=true&no-bg=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## ✨ Fun Badges
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Coffee%20Level-High-brown?style=for-the-badge&logo=buymeacoffee" />
-  <img src="https://img.shields.io/badge/Code%20Mode-Always%20On-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Loves-Mobile%20Development-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coffee-☕-brown?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Learning-Everyday-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Loves-Mobile_Dev-green?style=for-the-badge">
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with Me
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
@@ -113,4 +106,4 @@ Tool that generates university-ready reports with references.
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/light.png" width="100%" />
 </p>
 
-<h3 align="center">🔥 Thanks for visiting my profile! Keep coding & keep building!</h3>
+<h3 align="center">🔥 Thanks for visiting my profile!</h3>

@@ -1,143 +1,116 @@
-<!-- Neon Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=00F3FF&center=true&vCenter=true&width=900&lines=👾+Ashen+Nasingha;Full-Stack+Mobile+App+Developer;React+Native+%7C+Expo+%7C+Firebase+%7C+Node.js;Creating+Neon+Experiences+for+Modern+Apps" />
-</p>
+<!-- Gradient Banner -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
+<h1 align="center">🚀 Hey, I'm <span style="color:#4F46E5">Ashen</span> 👋</h1>
 
-<h1 align="center">
-  ⚡ <span style="color:#00eaff;">Ashen</span> — Full-Stack Mobile App Developer
-</h1>
+<h3 align="center">Full-Stack Mobile App Developer | React Native • Expo • Firebase • Node.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=2600&color=00E7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Mobile+Developer;React+Native+%7C+Expo+Expert;Firebase+%7C+Node.js+%7C+APIs;Neon+UI+Builder+%7C+Glass-Morphism+Designer;Crafting+Futuristic+Mobile+Experiences">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=4F46E5&center=true&vCenter=true&width=550&lines=Full-Stack+Mobile+App+Developer;React+Native+%7C+Expo+%7C+Firebase;Building+high-quality+mobile+apps;Turning+ideas+into+beautiful+UIs;Always+learning+%F0%9F%8E%93">
 </p>
 
 ---
 
-# 🔮 NEON ABOUT ME
-<div align="center">
-  <div style="background:rgba(255,255,255,0.07); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.15); backdrop-filter:blur(10px); width:90%;">
-  
-- 💼 Full-stack mobile app developer  
-- 📱 Specialized in **React Native (Expo)**  
-- 🔥 Backend development with **Firebase**, **Node.js**, **REST APIs**  
-- 🎨 Lover of neon UIs, glass cards, animations & futuristic layouts  
-- 🚀 Build mobile apps end-to-end with clean architecture  
-- 🌱 Currently leveling up **Next.js**, **TypeScript**, **scalable backends**  
+## 🌟 About Me
 
-  </div>
-</div>
+- 💼 Full-stack mobile & web developer  
+- 📱 Specialized in **React Native (Expo)** with smooth UI & clean architecture  
+- 🧠 Experienced with **Firebase**, **Node.js**, **REST APIs**, **Cloud Functions**  
+- 🎨 Passionate about UI/UX, animations & performance optimization  
+- 🚀 I love building real-world apps end-to-end  
+- 🌱 Currently learning: **Advanced TypeScript**, **Next.js**, **Backend scaling**  
 
 ---
 
-# 🔥 NEON SKILL MATRIX  
-<div align="center">
+## 🛠 Tech Stack
 
-### ═══════════════ ✦ **MOBILE DEVELOPMENT** ✦ ═══════════════
-<img src="https://img.shields.io/badge/React_Native-00eaff?style=for-the-badge&logo=react&logoColor=black&labelColor=ffffff10&color=00eaff50" />
-<img src="https://img.shields.io/badge/Expo-00eaff?style=for-the-badge&logo=expo&logoColor=white&labelColor=ffffff10&color=00eaff50" />
-<img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" />
-
-### ═══════════════ ✦ **FRONTEND** ✦ ═══════════════
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark" />
-
-### ═══════════════ ✦ **BACKEND & CLOUD** ✦ ═══════════════
-<img src="https://skillicons.dev/icons?i=firebase,nodejs,express&theme=dark" />
-
-### ═══════════════ ✦ **TOOLS** ✦ ═══════════════
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman&theme=dark" />
-
-</div>
-
----
-
-# 🚀 NEON PROJECT GALLERY
-All project cards below are **matching neon + glass style**.
-
----
-
-## 🟣 **EventShare — Mobile Event Platform**
-<div style="background:rgba(255,255,255,0.07); padding:18px; border-radius:16px; border:1px solid rgba(0,255,255,0.3); backdrop-filter:blur(10px);">
-A cross-platform event creation & discovery app.  
-<strong>Tech:</strong> React Native (Expo), Firebase Auth + Firestore
-
-### 🔗 Neon Buttons
+### 📱 **Mobile Development**
 <p>
-  <a href="#" style="background:#00eaff30; padding:10px 18px; border-radius:12px; border:1px solid #00eaff70; color:#00eaff; text-decoration:none; margin-right:10px;">📱 View Project</a>
-  <a href="#" style="background:#00ff9d20; padding:10px 18px; border-radius:12px; border:1px solid #00ff9d60; color:#00ff9d; text-decoration:none;">🚀 Demo</a>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
 </p>
 
-</div>
-
----
-
-## 🔵 **Portfolio Website**
-<div style="background:rgba(255,255,255,0.07); padding:18px; border-radius:16px; border:1px solid rgba(0,255,255,0.3); backdrop-filter:blur(10px);">
-Neon animated personal portfolio.  
-<strong>Tech:</strong> Next.js, Tailwind CSS
-
-### 🔗 Neon Buttons
+### 🌐 **Frontend**
 <p>
-  <a href="#" style="background:#00eaff30; padding:10px 18px; border-radius:12px; border:1px solid #00eaff70; color:#00eaff; text-decoration:none; margin-right:10px;">🌐 Live Site</a>
-  <a href="#" style="background:#f09aff20; padding:10px 18px; border-radius:12px; border:1px solid #f09aff60; color:#f09aff; text-decoration:none;">📁 Repo</a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </p>
 
-</div>
-
----
-
-## 🟢 **Assignment Helper Tool**
-<div style="background:rgba(255,255,255,0.07); padding:18px; border-radius:16px; border:1px solid rgba(0,255,255,0.3); backdrop-filter:blur(10px);">
-Generate academic reports with auto formatting & references.  
-<strong>Tech:</strong> React, Node.js  
-
-### 🔗 Neon Buttons
+### 🔥 **Backend & Cloud**
 <p>
-  <a href="#" style="background:#00eaff30; padding:10px 18px; border-radius:12px; border:1px solid #00eaff70; color:#00eaff; text-decoration:none; margin-right:10px;">📘 Project</a>
-  <a href="#" style="background:#00fffa20; padding:10px 18px; border-radius:12px; border:1px solid #00fffa60; color:#00fffa; text-decoration:none;">▶ Demo</a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
 </p>
 
-</div>
-
----
-
-# 🌈 NEON GITHUB ANALYTICS
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashennasingha001-max&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashennasingha001-max&theme=tokyonight&hide_border=true" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashennasingha001-max&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 NEON TROPHIES
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashennasingha001-max&theme=discord&no-frame=true&row=1" />
+### 🧰 **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
 </p>
 
 ---
 
-# 🐍 NEON CONTRIBUTION SNAKE
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+## 🚀 Featured Projects
+
+### 📱 **EventShare — Mobile Event App**
+A cross-platform event discovery & posting app.  
+**Tech:** React Native (Expo), Firebase Auth & Firestore  
+🔗 Add your repo link here  
 
 ---
 
-# 🌐 CONNECT WITH ME (NEON)
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-00eaff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f14&color=00eaff60" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-f09aff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0f14&color=f09aff60" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-00fffa?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0a0f14&color=00fff860" /></a>
-</p>
+### 🌐 **Portfolio Website**
+Your personal developer portfolio with clean UI and animations.  
+**Tech:** Next.js, Tailwind CSS, Vercel  
+🔗 Add your repo link here  
 
 ---
+
+### 🧾 **Assignment Helper Tool**
+Tool that generates university-ready reports with references.  
+**Tech:** React, Node.js  
+🔗 Add your repo link here  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://imgur.com/ybZ0YkU.png" width="100%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashennasingha001-max&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashennasingha001-max&theme=tokyonight&hide_border=true" />
 </p>
 
-<h3 align="center" style="color:#00eaff;">⚡ Stay Neon • Stay Futuristic • Keep Building</h3>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashennasingha001-max&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashennasingha001-max&theme=tokyonight&row=1&no-frame=true&no-bg=true" />
+</p>
+
+---
+
+## ✨ Fun Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Coffee%20Level-High-brown?style=for-the-badge&logo=buymeacoffee" />
+  <img src="https://img.shields.io/badge/Code%20Mode-Always%20On-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Loves-Mobile%20Development-blueviolet?style=for-the-badge" />
+</p>
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/light.png" width="100%" />
+</p>
+
+<h3 align="center">🔥 Thanks for visiting my profile! Keep coding & keep building!</h3>

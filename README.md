@@ -1,15 +1,109 @@
-<h1 align="center">Hi 👋, I'm Ashen Ranasingha</h1>
-<h3 align="center">A passionate Mobile App developer from Sri Lanka</h3>
+<!-- Wave Banner -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-- 🌱 I’m currently learning **React Native**
+<h1 align="center">✨ Hey, I'm <span style="color:#4F46E5">Ashen</span> 👋</h1>
 
-- 👨‍💻 All of my projects are available at [https://ashenranasinghaportfolio.netlify.app](https://ashenranasinghaportfolio.netlify.app)
+<h3 align="center">Frontend & Mobile Developer • React Native • Firebase • Student Developer</h3>
 
-- 📫 How to reach me **ashennasingha001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=4F46E5&center=true&vCenter=true&width=500&lines=I+love+building+clean+UIs.;React+%2B+Expo+Developer.;Always+learning+new+things.;Turning+ideas+into+apps.">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+- 🔭 Currently building apps using **React Native (Expo)** & **Firebase**
+- 🌱 Learning **TypeScript**, **Next.js**, and **Backend APIs**
+- ⚡ Passionate about mobile UI, animations, cloud tech
+- 🤝 Looking to collaborate on creative & open-source projects
+- 🎯 Goal: Become a top-notch **full-stack mobile engineer**
+
+---
+
+## 🛠 Tech Stack
+
+### ⭐ **Languages & Core**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</p>
+
+### 🎨 **Frontend & Mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
+
+### 🔥 **Backend & Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,nodejs,express" />
+</p>
+
+### 🧰 **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 📱 **EventShare — Mobile Event App**
+A full mobile app to create & explore local events.  
+**Tech:** React Native (Expo), Firebase  
+🔗 *Add your repo link here*
+
+---
+
+### 🌐 **Personal Portfolio Website**
+Clean responsive portfolio with animations.  
+**Tech:** Next.js, Tailwind CSS, Vercel  
+🔗 *Add your repo link here*
+
+---
+
+### 🎓 **Assignment Helper Tool**
+Tool that generates university-ready reports with references.  
+**Tech:** React, Node.js  
+🔗 *Add your repo link here*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ✨ Fun Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coffee-☕-brown?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Learning-Everyday-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Loves-Mobile_Dev-green?style=for-the-badge">
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/light.png" width="100%" />
+</p>
+
+<h3 align="center">🔥 Thanks for visiting my profile!</h3>

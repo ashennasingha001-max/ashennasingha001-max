@@ -53,7 +53,7 @@
 ### 📱 **EventShare — Mobile Event App**
 A cross-platform event discovery & posting app.  
 **Tech:** React Native (Expo), Firebase Auth & Firestore  
-🔗 Add your repo link here  
+ 
 
 ---
 
@@ -91,6 +91,13 @@ Your personal developer portfolio with clean UI and animations.
   <img src="https://img.shields.io/badge/Coffee%20Level-High-brown?style=for-the-badge&logo=buymeacoffee" />
   <img src="https://img.shields.io/badge/Code%20Mode-Always%20On-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Loves-Mobile%20Development-blueviolet?style=for-the-badge" />
+</p>
+
+---
+
+# 🐍 NEON CONTRIBUTION SNAKE
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---

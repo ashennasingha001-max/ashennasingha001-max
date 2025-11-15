@@ -1,80 +1,72 @@
-<!-- Neon Gradient Banner -->
-<p align="center">
-  <img src="https://imgur.com/ybZ0YkU.png" width="100%" />
-</p>
+<!-- Gradient Banner -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<h1 align="center" style="font-weight:700; font-size:40px;">
-  ⚡ Hey, I'm <span style="color:#00eaff;">Ashen</span>
-</h1>
+<h1 align="center">🚀 Hey, I'm <span style="color:#4F46E5">Ashen Ranasingha</span> 👋</h1>
 
-<h3 align="center">
-  <span style="background:rgba(255,255,255,0.1); backdrop-filter:blur(12px); padding:10px 25px; border-radius:16px; border:1px solid rgba(255,255,255,0.2); color:#00f0ff;">
-    Full-Stack Mobile App Developer • React Native • Expo • Firebase • Node.js
-  </span>
-</h3>
-
-<br>
+<h3 align="center">Full-Stack Mobile App Developer | React Native • Expo • Firebase • Node.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00E7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Mobile+Developer;React+Native+%7C+Expo+Expert;Firebase+%7C+Node.js+%7C+APIs;Crafting+Neon+Beautiful+Apps;Always+Building.+Always+Learning.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=4F46E5&center=true&vCenter=true&width=550&lines=Full-Stack+Mobile+App+Developer;React+Native+%7C+Expo+%7C+Firebase;Building+high-quality+mobile+apps;Turning+ideas+into+beautiful+UIs;Always+learning+%F0%9F%8E%93">
 </p>
 
 ---
 
-## 🧊 **About Me (Glass Card)**
+## 🌟 About Me
 
-<p align="center">
-  <div style="background:rgba(255,255,255,0.08); backdrop-filter:blur(12px); padding:18px; border-radius:18px; border:1px solid rgba(255,255,255,0.15); width:85%;">
-  
-- 💡 Full-stack mobile app developer specialized in **React Native (Expo)**  
-- 🔥 Build powerful apps with **Firebase**, **Node.js**, and cloud integrations  
-- 🎨 Love UI/UX animation, neon themes & high-performance mobile screens  
-- 🚀 Passionate about crafting futuristic, polished mobile apps  
-- 🌱 Learning **Next.js**, **TypeScript**, and backend scaling techniques  
+- 💼 Full-stack mobile & web developer  
+- 📱 Specialized in **React Native (Expo)** with smooth UI & clean architecture  
+- 🧠 Experienced with **Firebase**, **Node.js**, **REST APIs**, **Cloud Functions**  
+- 🎨 Passionate about UI/UX, animations & performance optimization  
+- 🚀 I love building real-world apps end-to-end  
+- 🌱 Currently learning: **Advanced TypeScript**, **Next.js**, **Backend scaling**  
 
-  </div>
+---
+
+## 🛠 Tech Stack
+
+### 📱 **Mobile Development**
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+</p>
+
+### 🌐 **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+</p>
+
+### 🔥 **Backend & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,MongoDB" />
+</p>
+
+### 🧰 **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
 </p>
 
 ---
 
-## 🛠 **Tech Stack (Neon Icons)**
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,expo,ts,js,firebase,nodejs,express,nextjs,androidstudio,tailwind,figma,git,github,vscode&theme=dark" />
-</p>
-
----
-
-## 🚀 **Featured Projects (Glass Cards)**
-
-### 🟣 **EventShare — Mobile Event Platform**
-<p style="background:rgba(255,255,255,0.08); padding:15px; border-radius:16px; border:1px solid rgba(255,255,255,0.15); backdrop-filter:blur(10px);">
-A mobile application to create, manage, and explore local events.  
-<strong>Tech:</strong> React Native (Expo), Firebase Auth + Firestore  
-🔗 Add your repo link here
-</p>
+### 📱 **EventShare — Mobile Event App**
+A cross-platform event discovery & posting app.  
+**Tech:** React Native (Expo), Firebase Auth & Firestore  
+🔗 Add your repo link here  
 
 ---
 
-### 🔵 **Portfolio Website**
-<p style="background:rgba(255,255,255,0.08); padding:15px; border-radius:16px; border:1px solid rgba(255,255,255,0.15); backdrop-filter:blur(10px);">
-Animated personal portfolio with neon UI.  
-<strong>Tech:</strong> Next.js, Tailwind CSS  
-🔗 Add your repo link here
-</p>
+### 🌐 **Portfolio Website**
+Your personal developer portfolio with clean UI and animations.  
+**Tech:** Next.js, Tailwind CSS, Vercel  
+🔗 [https://ashenranasinghaportfolio.netlify.app]  
 
 ---
 
-### 🟢 **Assignment Helper Tool**
-<p style="background:rgba(255,255,255,0.08); padding:15px; border-radius:16px; border:1px solid rgba(255,255,255,0.15); backdrop-filter:blur(10px);">
-Generate student assignments with proper formatting & references.  
-<strong>Tech:</strong> React, Node.js  
-🔗 Add your repo link here
-</p>
 
----
 
-## 🌈 **Neon GitHub Stats**
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashennasingha001-max&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -87,34 +79,33 @@ Generate student assignments with proper formatting & references.
 
 ---
 
-## 🏆 **Neon Trophies**
-
+## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashennasingha001-max&theme=discord&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashennasingha001-max&theme=tokyonight&row=1&no-frame=true&no-bg=true" />
 </p>
 
 ---
 
-## 🐍 **Neon Contribution Snake**
-
+## ✨ Fun Badges
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://img.shields.io/badge/Coffee%20Level-High-brown?style=for-the-badge&logo=buymeacoffee" />
+  <img src="https://img.shields.io/badge/Code%20Mode-Always%20On-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Loves-Mobile%20Development-blueviolet?style=for-the-badge" />
 </p>
 
 ---
 
-## 🌐 **Connect With Me**
-
+## 📫 Connect With Me
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://imgur.com/ybZ0YkU.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/light.png" width="100%" />
 </p>
 
-<h3 align="center">⚡ Stay futuristic. Keep coding. Shine in neon.</h3>
+<h3 align="center">🔥 Thanks for visiting my profile! Keep coding & keep building!</h3>

@@ -60,7 +60,7 @@ A cross-platform event discovery & posting app.
 ### 🌐 **Portfolio Website**
 Your personal developer portfolio with clean UI and animations.  
 **Tech:** Next.js, Tailwind CSS, Vercel  
-🔗 [https://ashenranasinghaportfolio.netlify.app]  
+🔗 [https://ashenranasingha.dev]  
 
 ---
 
